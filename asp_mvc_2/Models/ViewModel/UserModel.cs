@@ -6,6 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace asp_mvc_2.Models.ViewModel
 {
+
     public class UserSignUpView
     {
         [Key]
